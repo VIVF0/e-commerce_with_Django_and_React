@@ -1,2 +1,1 @@
-# e-commerce_with_Django
- 
+# e-commerce_with_Django_and_React
